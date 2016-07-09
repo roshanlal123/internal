@@ -1,6 +1,3 @@
 <?php
-
-echo '<h1>My First Git File</h1>';
-
-
+	echo '<h1>My First Git File</h1>';
 ?>
